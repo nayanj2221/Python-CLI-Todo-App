@@ -10,14 +10,14 @@ A robust and user-friendly command-line application designed for efficient task 
 
 ## Table of Contents
 
-- [Key Features](#-key-features)
-- [Demo](#-demo)
-- [Tech Stack](#-tech-stack)
-- [Installation and Usage](#-installation-and-usage)
-- [File Structure](#-file-structure)
-- [How It Works](#-how-it-works)
-- [Future Improvements](#-future-improvements)
-- [License](#-license)
+- [Key Features](https://github.com/nayanj2221/Python-CLI-Todo-App?tab=readme-ov-file#key-features)
+- [Demo](https://github.com/nayanj2221/Python-CLI-Todo-App?tab=readme-ov-file#demo)
+- [Tech Stack](https://github.com/nayanj2221/Python-CLI-Todo-App?tab=readme-ov-file#tech-stack)
+- [Installation and Usage](https://github.com/nayanj2221/Python-CLI-Todo-App?tab=readme-ov-file#installation-and-usage)
+- [File Structure](https://github.com/nayanj2221/Python-CLI-Todo-App?tab=readme-ov-file#file-structure)
+- [How It Works](https://github.com/nayanj2221/Python-CLI-Todo-App?tab=readme-ov-file#how-it-works)
+- [Future Improvements](https://github.com/nayanj2221/Python-CLI-Todo-App?tab=readme-ov-file#future-improvements)
+- [License](https://github.com/nayanj2221/Python-CLI-Todo-App?tab=readme-ov-file#license)
 
 ##  Key Features
 
