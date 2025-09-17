@@ -1,0 +1,20 @@
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Application-generated data files
+# These should not be tracked by Git as they represent user data, not source code.
+tasks.json
+task_report.txt
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
